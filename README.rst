@@ -2,7 +2,7 @@ HTML reports for preprocessed data (from fMRIPrep)
 ==================================================
 ses-01
 ------
-`sub-001 <https://arbaneu.github.io/ses-01/sub-001.html/>`_
+`sub-001 <https://arbaneu.github.io/ses-01/index.html/>`_
 
 sub-002
 
